@@ -1,0 +1,7 @@
+{
+  "markets": {
+    "mt": {"enabled": true, "region": "eu-south-1"},
+    "us": {"enabled": false, "region": "us-east-1"},
+    "uk": {"enabled": false, "region": "eu-west-2"}
+  }
+}
